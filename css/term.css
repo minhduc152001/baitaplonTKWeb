@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  text-align: justify;
+  margin: 6%;
+  line-height: 2;
+}
+
+main h1 {
+  text-align: center;
+  margin: 50px;
+  color: rgb(3, 94, 0);
+}
+
+main h3 {
+  color: rgb(0, 20, 110);
+}
+
+main p {
+  margin-left: 40px;
+}

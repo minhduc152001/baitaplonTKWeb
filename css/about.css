@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  background-color: rgb(246, 251, 255);
+}
+
+main {
+  line-height: 2;
+  text-align: justify;
+  margin: 6rem;
+}
+
+h1 {
+  padding: 10px;
+}
+
+ul {
+  padding-left: 30px;
+}
+
+iframe {
+  padding: 5%;
+}
